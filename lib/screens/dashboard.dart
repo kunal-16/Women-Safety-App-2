@@ -227,6 +227,7 @@ class _DashboardPageState extends State<DashboardPage> {
                         child: Center(
                             child: Text("Sign Out",
                                 style: TextStyle(
+                                  // color: Colors.white,
                                   fontWeight: FontWeight.bold,
                                 ))),
                         height: 50,
